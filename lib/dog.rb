@@ -1,3 +1,3 @@
 class Dog
 end
-dog.new
+Dog.new
